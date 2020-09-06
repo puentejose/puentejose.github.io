@@ -1,19 +1,24 @@
 html {
-    height: 100%;
-    background-attachment: fixed;
-    background: rgb(253,87,70);
-    background: linear-gradient(0deg, rgba(253,87,70,1) 0%, rgba(112,56,83,1) 40%, rgba(60,72,114,1) 90%); 
-    color: whitesmoke;
+  height: 100%;
+  background-attachment: fixed;
+  background: rgb(253, 87, 70);
+  background: linear-gradient(
+    0deg,
+    rgba(253, 87, 70, 1) 0%,
+    rgba(112, 56, 83, 1) 40%,
+    rgba(60, 72, 114, 1) 90%
+  );
 }
 
-/* body {
-    background-color: transparent;
-} */
+body {
+  color: white!important;
+}
 
 a {
-    color: #f0f0f0;
-    text-decoration: none;
+  /* color: white!important; */
+  text-decoration: none!important;
 }
+
 
 /* background: rgb(253,87,70);
 background: linear-gradient(0deg, rgba(253,87,70,1) 33%, rgba(60,72,114,1) 80%);  */
