@@ -1,4 +1,6 @@
-html {
+/* html {
+  font-family: helvetica, arial, sans-serif;
+  margin: 0;
   height: 100%;
   background-attachment: fixed;
   background: rgb(253, 87, 70);
@@ -11,14 +13,14 @@ html {
 }
 
 body {
-  color: white!important;
+  height: 100%;
+  color: white !important;
 }
 
 a {
-  /* color: white!important; */
-  text-decoration: none!important;
-}
-
+  color: white!important;
+  text-decoration: none !important;
+} */
 
 /* background: rgb(253,87,70);
 background: linear-gradient(0deg, rgba(253,87,70,1) 33%, rgba(60,72,114,1) 80%);  */
